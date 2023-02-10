@@ -1,0 +1,19 @@
+header {
+    height: 500px;
+    background-color: BlanchedAlmond;
+  }
+  
+  nav {
+    height: 50px;
+    background-color: black;
+  }
+  
+  main {
+    height: 700px;
+    background-color: whitesmoke;
+  }
+  
+  footer {
+    height: 250px;
+    background-color: gray;
+  }
